@@ -57,7 +57,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Yasin Bhuiyan - [Website](https://yasinbhuiyan.com)
 
 
-Website: [https://privsnip.easydevnow.com](https://privsnip.easydevnow.com)
+Website: [privsnip](https://privsnip.easydevnow.com)
